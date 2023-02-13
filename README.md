@@ -7,9 +7,9 @@ Bu repo [Kodluyoruz](https://app.patika.dev/courses/git/odev1) eğitiminde olust
 
 Oncelikle projeyi clonelayin.(Buraya sizin reponuzdan aldiginiz link gelecek)
 
-'''
+```
  git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git 
- '''
+ ```
 
 ## Usage
 
